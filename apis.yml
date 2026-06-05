@@ -1,4 +1,6 @@
 aid: polaris
+tags:
+  - Fortune 1000
 url: https://raw.githubusercontent.com/api-evangelist/polaris/refs/heads/main/apis.yml
 name: Polaris
 type: Index
